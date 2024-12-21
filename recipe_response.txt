@@ -1,0 +1,13 @@
+Based on the given query, it seems that only rice is required. Since 'Rice' is available in the given ingredients, we can suggest a recipe.
+
+Suggestion: How about preparing a simple plain cooked rice? Here's a simple recipe:
+
+Ingredients:
+- Rice: 2 cups
+
+Steps:
+1. Clean the rice under cold tap water until the water runs clear.
+2. Transfer the rinsed rice into a pot and add 4 cups of water.
+3. Cover the pot and turn the heat to high.
+4. Once the water is boiling, reduce the heat to low and let it simmer for 15-20 minutes or until the water has been completely absorbed by the rice.
+5. Fluff the rice with a fork, and it's ready to serve!

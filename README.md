@@ -1,2 +1,1 @@
-# KUET_BITFEST
-Preli
+# backend
